@@ -1,0 +1,50 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.rafi {
+    background-color: rgb(255, 126, 147);
+    height: 100vh;
+}
+
+.container-navbar {
+    font-size: 30px
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.li-navbar {
+    margin: 10%;
+    list-style-type: none;
+}
+
+.container-foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    width: 100%;
+    border-radius: 15px;
+    
+}
+
+.foto-meysi1, .foto-meysi2 {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    gap: 20%;
+}
+
+.rafi-cogan {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    list-style-type: none;
+}
